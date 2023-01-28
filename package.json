@@ -2,7 +2,7 @@
   "name": "bootcamp",
   "version": "0.2.0",
   "description": "Decentralized Ethereum Token Exchange",
-  "author": "dev@dappuniversity.com",
+  "author": "Rittik.SK@hotmail.com",
   "private": true,
   "homepage": ".",
   "engines": {
@@ -41,7 +41,7 @@
     "web3": "1.2.6"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
